@@ -6,7 +6,8 @@ things that we need if want to make a working game:
 *   Something different happens depending on the choice the player made.
 *   The game also includes some random factors, so that it's a little different each time.
 *   The game has conditions for winning and losing.
-*   When the game is over, it asks if the player wants to play again.
+*   When the game is over, it asks if the player wants to play again.  
+
 These are the key features this project will need to have in order to make it into a playable game:
 *   Print descriptions of what's happening for the player
 *   Give the player some choices
